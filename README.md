@@ -24,7 +24,7 @@ We pledge to maintain an open, respectful, and harassment‑free environment. Al
 
 ## 📝 License
 
-All repositories are licensed under the [MIT License](LICENSE).
+All repositories are licensed under the [License](LICENSE).
 
 ---
 
