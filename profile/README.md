@@ -18,7 +18,7 @@ We pledge to maintain an open, respectful, and harassment‑free environment. Al
 
 ## 📬 Contact & Support
 
-- **Email:** hexreal25@gmail.com
+- **Email:** info@hexreal.com
 - **Website:** https://www.hexreal.com
 - **Twitter:** [@hexreal_tech](https://x.com/hexreal_tech)
 
